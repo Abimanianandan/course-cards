@@ -5,7 +5,7 @@ function CyberSecurity() {
   <div className="row">
   <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/cs1.webp" alt="..." />
+<img className="card-img-top" src="src/assets/img/cs1.webp" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -28,7 +28,7 @@ function CyberSecurity() {
 </div> 
 <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/cs2.gif" alt="..." />
+<img className="card-img-top" src="src/assets/img/cs2.gif" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -52,7 +52,7 @@ function CyberSecurity() {
 </div> 
 <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/cs3.webp" alt="..." />
+<img className="card-img-top" src="src/assets/img/cs3.webp" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">

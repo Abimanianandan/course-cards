@@ -6,6 +6,7 @@ import DataScience from "./components/DataScience";
 import CyberSecurity from "./components/CyberSecurity";
 import Career from "./components/Career";
 import Footer from "./components/Footer";
+
 import { BrowserRouter,Routes,Route,Navigate } from 'react-router-dom'
 
 function App() {
@@ -25,4 +26,4 @@ function App() {
       </div>
   
 }
-export default App;
+ export default App;

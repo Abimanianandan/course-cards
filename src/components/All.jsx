@@ -6,7 +6,7 @@ function All() {
    <div className="row">
    <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/fsd1.webp" alt="..." />
+<img className="card-img-top" src="src/assets/img/fsd1.webp" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -31,7 +31,7 @@ function All() {
 <div className="col-lg-4 col-sm-6 mb-4">
 <div className="card h-100">
 
-<img className="card-img-top" src="src/assets/fsd2.png" alt="..." />
+<img className="card-img-top" src="src/assets/img/fsd2.png" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -56,7 +56,7 @@ function All() {
 <div className="card h-100">
 
 
-<img className="card-img-top" src="src/assets/fsd3.jpg" alt="..." />
+<img className="card-img-top" src="src/assets/img/fsd3.jpg" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -77,7 +77,7 @@ function All() {
 </div>
 <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/ds1.webp" alt="..." />
+<img className="card-img-top" src="src/assets/img/ds1.webp" alt="..." />
 <div className="card-body p-4">
     <div className="text-center">
     <h4>10 Best Data Science Frameworks in 2024</h4>
@@ -100,7 +100,7 @@ function All() {
 <div className="col-lg-4 col-sm-6 mb-4">
 <div className="card h-100">
 
-<img className="card-img-top" src="src/assets/ds2.png" alt="..." />
+<img className="card-img-top" src="src/assets/img/ds2.png" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -125,7 +125,7 @@ function All() {
 <div className="card h-100">
 
 
-<img className="card-img-top" src="src/assets/ds3.webp" alt="..." />
+<img className="card-img-top" src="src/assets/img/ds3.webp" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -146,7 +146,7 @@ function All() {
 </div>
 <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/cs1.webp" alt="..." />
+<img className="card-img-top" src="src/assets/img/cs1.webp" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -169,7 +169,7 @@ function All() {
 </div> 
 <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/cs2.gif" alt="..." />
+<img className="card-img-top" src="src/assets/img/cs2.gif" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -193,7 +193,7 @@ function All() {
 </div> 
 <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/cs3.webp" alt="..." />
+<img className="card-img-top" src="src/assets/img/cs3.webp" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">

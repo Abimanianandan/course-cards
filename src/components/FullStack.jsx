@@ -5,7 +5,7 @@ function FullStack() {
   <div className="row">
   <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/fsd1.webp" alt="..." />
+<img className="card-img-top" src="src/assets/img/fsd1.webp" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -30,7 +30,7 @@ function FullStack() {
 <div className="col-lg-4 col-sm-6 mb-4">
 <div className="card h-100">
 
-<img className="card-img-top" src="src/assets/fsd2.png" alt="..." />
+<img className="card-img-top" src="src/assets/img/fsd2.png" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -55,7 +55,7 @@ function FullStack() {
 <div className="card h-100">
 
 
-<img className="card-img-top" src="src/assets/fsd3.jpg" alt="..." />
+<img className="card-img-top" src="src/assets/img/fsd3.jpg" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">

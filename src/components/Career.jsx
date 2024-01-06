@@ -5,7 +5,7 @@ function Career() {
     <div className="row">
   <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/cr1.webp" alt="..." />
+<img className="card-img-top" src="src/assets/img/cr1.webp" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -27,8 +27,8 @@ function Career() {
 </div>
 </div> 
 <div className="col-lg-4 col-sm-6 mb-4">
-  <div className="card h-100">
-<img className="card-img-top" src="src/assets/cr2.png" alt="..." />
+<div className="card h-100">
+<img className="card-img-top" src="src/assets/img/cr2.png" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -52,7 +52,7 @@ function Career() {
 </div> 
 <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/cr3.png" alt="..." />
+<img className="card-img-top" src="src/assets/img/cr3.png" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">

@@ -5,7 +5,7 @@ function Datascience() {
   <div className="row">
   <div className="col-lg-4 col-sm-6 mb-4">
   <div className="card h-100">
-<img className="card-img-top" src="src/assets/ds1.webp" alt="..." />
+<img className="card-img-top" src="src/assets/img/ds1.webp" alt="..." />
 <div className="card-body p-4">
     <div className="text-center">
     <h4>10 Best Data Science Frameworks in 2024</h4>
@@ -28,7 +28,7 @@ function Datascience() {
 <div className="col-lg-4 col-sm-6 mb-4">
 <div className="card h-100">
 
-<img className="card-img-top" src="src/assets/ds2.png" alt="..." />
+<img className="card-img-top" src="src/assets/img/ds2.png" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
@@ -53,7 +53,7 @@ function Datascience() {
 <div className="card h-100">
 
 
-<img className="card-img-top" src="src/assets/ds3.webp" alt="..." />
+<img className="card-img-top" src="src/assets/img/ds3.webp" alt="..." />
 
 <div className="card-body p-4">
     <div className="text-center">
