@@ -12,7 +12,7 @@ function All() {
     <div className="text-center">
     <h4>Top 10 Tools Every Full-Stack Developer Should Master in 2024</h4>
 
-   <p>‍As a full-stack developer, having the right set of tools is crucial for your success.</p>
+   <p>A‍s a full-stack developer, having the right set of tools is crucial for your success.</p>
    <div className="text-start">
    <a href="https://www.guvi.in/blog/top-full-stack-developer-tools/" style={{color:"green",textDecoration:"none"}}><b>Read more>></b></a>  
     </div>
